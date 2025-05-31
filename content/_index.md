@@ -6,7 +6,7 @@ Currently working on AA at Pimlico, previously solo mev searching and onchain ex
 
 ## My Hacks
 
-- [rusty sando](https://github.com/mouseless0x/rusty-sando): generalized sandwich bot
-- [nft flash claim](https://mirror.xyz/0x0000000000098341a924BD53454654A0dBBc4e43/KaJH_F5cZ76Yspi_oPhn0qP9WAcEm0ouZLxPjSJbEy4): long tail opportunity involving flash loaning NFTx pools
-- [vanity address miner](https://github.com/mouseless0x/4444): efficient setup that can mine 14 leading zeros in 12 hours
-- [flashbots rescue](https://github.com/mouseless0x/Flashbots-Recovery): whitehack to rescue $44k from a compromised wallet
+- <a href="https://github.com/mouseless0x/rusty-sando" target="_blank" rel="noopener noreferrer">rusty sando</a>: generalized sandwich bot
+- <a href="https://mirror.xyz/0x0000000000098341a924BD53454654A0dBBc4e43/KaJH_F5cZ76Yspi_oPhn0qP9WAcEm0ouZLxPjSJbEy4" target="_blank" rel="noopener noreferrer">nft flash claim</a>: long tail opportunity involving flash loaning NFTx pools
+- <a href="https://github.com/mouseless0x/4444" target="_blank" rel="noopener noreferrer">vanity address miner</a>: efficient setup that can mine 14 leading zeros in 12 hours
+- <a href="https://github.com/mouseless0x/Flashbots-Recovery" target="_blank" rel="noopener noreferrer">flashbots rescue</a>: whitehack to rescue $44k from a compromised wallet
