@@ -1,12 +1,50 @@
 @import "theme";
 
+/*
+Font: Berkeley Mono
+Licensed under Developer License (Website License Grant)
+https://usgraphics.com/products/berkeley-mono
+*/
+
+@font-face {
+    font-family: 'Berkeley Mono';
+    src: url('/fonts/berkeley-mono/BerkeleyMono-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Berkeley Mono';
+    src: url('/fonts/berkeley-mono/BerkeleyMono-Oblique.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Berkeley Mono';
+    src: url('/fonts/berkeley-mono/BerkeleyMono-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Berkeley Mono';
+    src: url('/fonts/berkeley-mono/BerkeleyMono-Bold-Oblique.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
 html, body {
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Berkeley Mono', monospace;
     font-size: 14pt;
 
     line-height: 1.3em;
@@ -50,6 +88,7 @@ blockquote {
 }
 
 code {
+    font-family: 'Berkeley Mono', monospace;
     padding: 0.1em 0.2em;
     font-size: 12pt;
 }
