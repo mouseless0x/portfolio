@@ -99,10 +99,12 @@ body {
 
 a, a:link, a:visited {
     color: var(--accent);
+    text-decoration: none;
 }
 
 a:hover {
     color: var(--accent-highlight);
+    text-decoration: none;
 }
 
 blockquote {
