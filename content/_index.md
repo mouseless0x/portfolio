@@ -2,7 +2,7 @@
 title = "Homepage"
 +++
 
-Currently working on AA at Pimlico, previously solo mev searching.
+Currently working on AA at Pimlico, previously solo mev searching
 
 ## My Hacks
 
